@@ -1,0 +1,15 @@
+{
+    "type": "Point",
+    "coordinates": [
+        -97.73781799999999,
+        30.26071
+    ],
+    "properties": {
+        "marker-size": "large",
+        "marker-symbol": "beer",
+        "What": "Austin Drinkup",
+        "Venue": "Lustre Pearl Bar",
+        "Address": "97 Rainey St, Austin, United States",
+        "When": "Tuesday, November 12 at 8:00pm"
+    }
+}
